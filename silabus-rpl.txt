@@ -3,5 +3,4 @@ Silabus rekayasa perangkat lunak kelas 3:
 - Framework bootstrap
 - Framework Codeigniter
 - DMS Mysql
-- aplikasi sosial media kelas 3
-- 
+- website biasa
