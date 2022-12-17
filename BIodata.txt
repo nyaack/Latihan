@@ -1,3 +1,5 @@
 Nama: Usyur Fajarn
 Alamat: Simpang Tiga
+NPM: 20105111028
+Fakultas: Teknik Informatika
 Jenis Kelamin: Laki-laki
