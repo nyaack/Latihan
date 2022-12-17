@@ -1,5 +1,7 @@
-Silabus rekayasa perangkat lunak kelas 5:
+Silabus rekayasa perangkat lunak kelas 3:
 - git dan Github
 - Framework bootstrap
 - Framework Codeigniter
 - DMS Mysql
+- aplikasi sosial media kelas 3
+- 
